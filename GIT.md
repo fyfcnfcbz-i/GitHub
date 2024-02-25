@@ -73,4 +73,12 @@ linux, MacOs
 rm <failname>
 ```
 
+Все изминения (commit)
+```sh
+log
+```
+сжатое отображение изминений
+```sh
+log --oneline
+```
 
