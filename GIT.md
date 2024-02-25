@@ -93,3 +93,6 @@ checkout master
 ```sh
 diff
 ```
+Удаления изминений до commit
+```sh
+restore <failname>
