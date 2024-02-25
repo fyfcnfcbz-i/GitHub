@@ -55,13 +55,22 @@ status
 ```
 Добавление файла к отслеживанию
 ```sh
-add name.fail
+add <failname>
 ```
 
 Фиксация изминения
 ```
 commit -m "comments"
 ```
+Удаление файла с изминениями
 
+Windows
+```sh
+del <failname>
+```
+linux, MacOs
+```sh
+rm <failname>
+```
 
 
