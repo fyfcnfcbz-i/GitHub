@@ -108,3 +108,17 @@ git restore <failname>
 ---
 ---
 ---
+
+Просмотр веток 
+```sh
+git branch
+```
+Создание новой ветки
+```sh
+git branch <name_new_branch>
+```
+
+Очистить терминал
+```sh
+clear
+```
