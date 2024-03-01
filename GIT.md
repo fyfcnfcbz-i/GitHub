@@ -121,6 +121,8 @@ git branch <name_new_branch>
 ```sh
 git checkout <name_branch>
 ```
+---
+
 
 **Очистить терминал**
 ```sh
