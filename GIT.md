@@ -117,6 +117,10 @@ git branch
 ```sh
 git branch <name_new_branch>
 ```
+Переход между ветками
+```sh
+git checkout <name_branch>
+```
 
 Очистить терминал
 ```sh
