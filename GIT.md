@@ -121,7 +121,11 @@ git branch <name_new_branch>
 ```sh
 git checkout <name_branch>
 ```
----
+### Слияние веток 
+```sh
+git merge <name_branch>
+```
+*Находимся в головной, прописываем ту которую хотип присоеденить!*
 
 
 **Очистить терминал**
