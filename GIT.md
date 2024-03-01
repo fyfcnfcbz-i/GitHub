@@ -131,6 +131,11 @@ git merge <name_branch>
 ```sh
 git branch -d <name_branch>
 ```
+Дерево commit с разными branch
+```sh
+git log -graph
+```
+
 **Очистить терминал**
 ```sh
 clear
