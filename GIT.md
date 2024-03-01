@@ -135,3 +135,7 @@ git branch -d <name_branch>
 ```sh
 clear
 ```
+**".gitignore"**
+```sh
+Open file -> в file указываем имена тех файлов которые нужно игнорировать -> add .gitignore -> git commit
+```
