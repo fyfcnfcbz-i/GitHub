@@ -144,3 +144,4 @@ clear
 ```sh
 Open file -> в file указываем имена тех файлов которые нужно игнорировать -> add .gitignore -> git commit
 ```
+Создали новую ветку branch_1
