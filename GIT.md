@@ -144,3 +144,6 @@ clear
 Open file -> в file указываем имена тех файлов которые нужно игнорировать -> add .gitignore -> git commit
 ```
 
+
+
+Yjdfz cnhjrf
