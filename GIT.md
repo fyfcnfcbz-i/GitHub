@@ -148,4 +148,4 @@ clear
 ```sh
 Open file -> в file указываем имена тех файлов которые нужно игнорировать -> add .gitignore -> git commit
 ```
-
+Новая строка
