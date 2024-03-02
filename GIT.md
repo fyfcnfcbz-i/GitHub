@@ -132,7 +132,11 @@ git branch -d <name_branch>
 ```
 ### Дерево commit с разными branch
 ```sh
-git log -graph
+git log --graph
+```
+**сжатое** отображение изминений
+```sh
+git log --oneline --graph
 ```
 
 **Очистить терминал**
@@ -143,7 +147,11 @@ clear
 ```sh
 Open file -> в file указываем имена тех файлов которые нужно игнорировать -> add .gitignore -> git commit
 ```
+<<<<<<< HEAD
 
 
 
 Yjdfz cnhjrf
+=======
+Новая строка
+>>>>>>> branch_3
