@@ -32,7 +32,7 @@ pvd
 Open -> аналогичная папка NAME -> New fail -> Save (расширение.md)
 ```
 ---
-*Отображение листинга текущей директории*
+### Отображение листинга текущей директории
 
 Windows
 ```sh
@@ -48,7 +48,7 @@ ls
 ```sh
 git init
 ```
-*Сохранение изминений в VSc*
+__*Сохранение изминений в VSc*__
 ```sh
 Ctrl + S
 ```
@@ -58,7 +58,7 @@ git status
 ```
 ## Добавление файла к отслеживанию
 ```sh
-git add <failname.md>
+git add <fail_name.md>
 ```
 ## Фиксация изминения
 ```
@@ -66,7 +66,6 @@ git commit -m "comments"
 ```
 ---
 ---
-
 ## Все изминения (commit)
 ```sh
 git log
@@ -77,7 +76,7 @@ git log --oneline
 ```
 ## Пеерключение к определенному этапу изминений
 ```sh
-git checkout <namecomit>
+git checkout <name_commit>
 ```
 ## Возврат на самое последние состояние
 ```sh
@@ -92,15 +91,15 @@ git diff
 ## Удаление файла с изминениями
 Windows
 ```sh
-del <failname>
+del <fail_name>
 ```
 linux, MacOs
 ```sh
-rm <failname>
+rm <fail_name>
 ```
 ## Удаления изминений до commit
 ```sh
-git restore <failname>
+git restore <fail_name>
 ```
 
 ---
