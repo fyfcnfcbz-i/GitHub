@@ -138,20 +138,11 @@ git log --graph
 ```sh
 git log --oneline --graph
 ```
-
 **Очистить терминал**
 ```sh
 clear
 ```
 **".gitignore"**
 ```sh
-Open file -> в file указываем имена тех файлов которые нужно игнорировать -> add .gitignore -> git commit
+Open file -> в file указываем имена тех файлов которые нужно игнорировать -> add .gitignore -> git commit -m ""
 ```
-<<<<<<< HEAD
-
-
-
-Yjdfz cnhjrf
-=======
-Новая строка
->>>>>>> branch_3
