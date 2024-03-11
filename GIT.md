@@ -326,7 +326,7 @@ git remote -v
 git remote show origin
 ```
 Проверка ..
-
+еще
 
 
 
